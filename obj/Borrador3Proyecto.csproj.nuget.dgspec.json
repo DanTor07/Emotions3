@@ -1,0 +1,73 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\torre\\OneDrive - Fundación Universitaria Konrad Lorenz\\Documentos\\Visual Studio 2022\\Proyecto\\Emotions2-master\\Borrador3Proyecto.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\torre\\OneDrive - Fundación Universitaria Konrad Lorenz\\Documentos\\Visual Studio 2022\\Proyecto\\Emotions2-master\\Borrador3Proyecto.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\torre\\OneDrive - Fundación Universitaria Konrad Lorenz\\Documentos\\Visual Studio 2022\\Proyecto\\Emotions2-master\\Borrador3Proyecto.csproj",
+        "projectName": "Borrador3Proyecto",
+        "projectPath": "C:\\Users\\torre\\OneDrive - Fundación Universitaria Konrad Lorenz\\Documentos\\Visual Studio 2022\\Proyecto\\Emotions2-master\\Borrador3Proyecto.csproj",
+        "packagesPath": "C:\\Users\\torre\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\torre\\OneDrive - Fundación Universitaria Konrad Lorenz\\Documentos\\Visual Studio 2022\\Proyecto\\Emotions2-master\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\torre\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Google.Cloud.Firestore": {
+              "target": "Package",
+              "version": "[3.4.0, )"
+            },
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[13.0.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.403\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

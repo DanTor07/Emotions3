@@ -1,0 +1,131 @@
+C:\Users\torre\OneDrive - Fundación Universitaria Konrad Lorenz\Documentos\Visual Studio 2022\Proyecto\Borrador3Proyecto\bin\Debug\net6.0\Borrador3Proyecto.exe
+C:\Users\torre\OneDrive - Fundación Universitaria Konrad Lorenz\Documentos\Visual Studio 2022\Proyecto\Borrador3Proyecto\bin\Debug\net6.0\Borrador3Proyecto.deps.json
+C:\Users\torre\OneDrive - Fundación Universitaria Konrad Lorenz\Documentos\Visual Studio 2022\Proyecto\Borrador3Proyecto\bin\Debug\net6.0\Borrador3Proyecto.runtimeconfig.json
+C:\Users\torre\OneDrive - Fundación Universitaria Konrad Lorenz\Documentos\Visual Studio 2022\Proyecto\Borrador3Proyecto\bin\Debug\net6.0\Borrador3Proyecto.dll
+C:\Users\torre\OneDrive - Fundación Universitaria Konrad Lorenz\Documentos\Visual Studio 2022\Proyecto\Borrador3Proyecto\bin\Debug\net6.0\Borrador3Proyecto.pdb
+C:\Users\torre\OneDrive - Fundación Universitaria Konrad Lorenz\Documentos\Visual Studio 2022\Proyecto\Borrador3Proyecto\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\torre\OneDrive - Fundación Universitaria Konrad Lorenz\Documentos\Visual Studio 2022\Proyecto\Borrador3Proyecto\obj\Debug\net6.0\Borrador3Proyecto.csproj.AssemblyReference.cache
+C:\Users\torre\OneDrive - Fundación Universitaria Konrad Lorenz\Documentos\Visual Studio 2022\Proyecto\Borrador3Proyecto\obj\Debug\net6.0\Borrador3Proyecto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\torre\OneDrive - Fundación Universitaria Konrad Lorenz\Documentos\Visual Studio 2022\Proyecto\Borrador3Proyecto\obj\Debug\net6.0\Borrador3Proyecto.AssemblyInfoInputs.cache
+C:\Users\torre\OneDrive - Fundación Universitaria Konrad Lorenz\Documentos\Visual Studio 2022\Proyecto\Borrador3Proyecto\obj\Debug\net6.0\Borrador3Proyecto.AssemblyInfo.cs
+C:\Users\torre\OneDrive - Fundación Universitaria Konrad Lorenz\Documentos\Visual Studio 2022\Proyecto\Borrador3Proyecto\obj\Debug\net6.0\Borrador3Proyecto.csproj.CoreCompileInputs.cache
+C:\Users\torre\OneDrive - Fundación Universitaria Konrad Lorenz\Documentos\Visual Studio 2022\Proyecto\Borrador3Proyecto\obj\Debug\net6.0\Borrador3Proyecto.csproj.CopyComplete
+C:\Users\torre\OneDrive - Fundación Universitaria Konrad Lorenz\Documentos\Visual Studio 2022\Proyecto\Borrador3Proyecto\obj\Debug\net6.0\Borrador3Proyecto.dll
+C:\Users\torre\OneDrive - Fundación Universitaria Konrad Lorenz\Documentos\Visual Studio 2022\Proyecto\Borrador3Proyecto\obj\Debug\net6.0\refint\Borrador3Proyecto.dll
+C:\Users\torre\OneDrive - Fundación Universitaria Konrad Lorenz\Documentos\Visual Studio 2022\Proyecto\Borrador3Proyecto\obj\Debug\net6.0\Borrador3Proyecto.pdb
+C:\Users\torre\OneDrive - Fundación Universitaria Konrad Lorenz\Documentos\Visual Studio 2022\Proyecto\Borrador3Proyecto\obj\Debug\net6.0\Borrador3Proyecto.genruntimeconfig.cache
+C:\Users\torre\OneDrive - Fundación Universitaria Konrad Lorenz\Documentos\Visual Studio 2022\Proyecto\Borrador3Proyecto\obj\Debug\net6.0\ref\Borrador3Proyecto.dll
+C:\Users\tatia\OneDrive\Documentos\GitHub\MusicEmotions\Music\MusicEmotions\obj\Debug\net6.0\Borrador3Proyecto.csproj.AssemblyReference.cache
+C:\Users\tatia\OneDrive\Documentos\GitHub\MusicEmotions\Music\MusicEmotions\obj\Debug\net6.0\Borrador3Proyecto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tatia\OneDrive\Documentos\GitHub\MusicEmotions\Music\MusicEmotions\obj\Debug\net6.0\Borrador3Proyecto.AssemblyInfoInputs.cache
+C:\Users\tatia\OneDrive\Documentos\GitHub\MusicEmotions\Music\MusicEmotions\obj\Debug\net6.0\Borrador3Proyecto.AssemblyInfo.cs
+C:\Users\tatia\OneDrive\Documentos\GitHub\MusicEmotions\Music\MusicEmotions\obj\Debug\net6.0\Borrador3Proyecto.csproj.CoreCompileInputs.cache
+C:\Users\tatia\OneDrive\Documentos\GitHub\MusicEmotions\Music\MusicEmotions\bin\Debug\net6.0\Borrador3Proyecto.exe
+C:\Users\tatia\OneDrive\Documentos\GitHub\MusicEmotions\Music\MusicEmotions\bin\Debug\net6.0\Borrador3Proyecto.deps.json
+C:\Users\tatia\OneDrive\Documentos\GitHub\MusicEmotions\Music\MusicEmotions\bin\Debug\net6.0\Borrador3Proyecto.runtimeconfig.json
+C:\Users\tatia\OneDrive\Documentos\GitHub\MusicEmotions\Music\MusicEmotions\bin\Debug\net6.0\Borrador3Proyecto.dll
+C:\Users\tatia\OneDrive\Documentos\GitHub\MusicEmotions\Music\MusicEmotions\bin\Debug\net6.0\Borrador3Proyecto.pdb
+C:\Users\tatia\OneDrive\Documentos\GitHub\MusicEmotions\Music\MusicEmotions\bin\Debug\net6.0\Google.Api.CommonProtos.dll
+C:\Users\tatia\OneDrive\Documentos\GitHub\MusicEmotions\Music\MusicEmotions\bin\Debug\net6.0\Google.Api.Gax.dll
+C:\Users\tatia\OneDrive\Documentos\GitHub\MusicEmotions\Music\MusicEmotions\bin\Debug\net6.0\Google.Api.Gax.Grpc.dll
+C:\Users\tatia\OneDrive\Documentos\GitHub\MusicEmotions\Music\MusicEmotions\bin\Debug\net6.0\Google.Apis.dll
+C:\Users\tatia\OneDrive\Documentos\GitHub\MusicEmotions\Music\MusicEmotions\bin\Debug\net6.0\Google.Apis.Auth.PlatformServices.dll
+C:\Users\tatia\OneDrive\Documentos\GitHub\MusicEmotions\Music\MusicEmotions\bin\Debug\net6.0\Google.Apis.Auth.dll
+C:\Users\tatia\OneDrive\Documentos\GitHub\MusicEmotions\Music\MusicEmotions\bin\Debug\net6.0\Google.Apis.Core.dll
+C:\Users\tatia\OneDrive\Documentos\GitHub\MusicEmotions\Music\MusicEmotions\bin\Debug\net6.0\Google.Cloud.Firestore.dll
+C:\Users\tatia\OneDrive\Documentos\GitHub\MusicEmotions\Music\MusicEmotions\bin\Debug\net6.0\Google.Cloud.Firestore.V1.dll
+C:\Users\tatia\OneDrive\Documentos\GitHub\MusicEmotions\Music\MusicEmotions\bin\Debug\net6.0\Google.Cloud.Location.dll
+C:\Users\tatia\OneDrive\Documentos\GitHub\MusicEmotions\Music\MusicEmotions\bin\Debug\net6.0\Google.LongRunning.dll
+C:\Users\tatia\OneDrive\Documentos\GitHub\MusicEmotions\Music\MusicEmotions\bin\Debug\net6.0\Google.Protobuf.dll
+C:\Users\tatia\OneDrive\Documentos\GitHub\MusicEmotions\Music\MusicEmotions\bin\Debug\net6.0\Grpc.Auth.dll
+C:\Users\tatia\OneDrive\Documentos\GitHub\MusicEmotions\Music\MusicEmotions\bin\Debug\net6.0\Grpc.Core.Api.dll
+C:\Users\tatia\OneDrive\Documentos\GitHub\MusicEmotions\Music\MusicEmotions\bin\Debug\net6.0\Grpc.Net.Client.dll
+C:\Users\tatia\OneDrive\Documentos\GitHub\MusicEmotions\Music\MusicEmotions\bin\Debug\net6.0\Grpc.Net.Common.dll
+C:\Users\tatia\OneDrive\Documentos\GitHub\MusicEmotions\Music\MusicEmotions\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\tatia\OneDrive\Documentos\GitHub\MusicEmotions\Music\MusicEmotions\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\tatia\OneDrive\Documentos\GitHub\MusicEmotions\Music\MusicEmotions\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\tatia\OneDrive\Documentos\GitHub\MusicEmotions\Music\MusicEmotions\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\tatia\OneDrive\Documentos\GitHub\MusicEmotions\Music\MusicEmotions\bin\Debug\net6.0\System.Linq.Async.dll
+C:\Users\tatia\OneDrive\Documentos\GitHub\MusicEmotions\Music\MusicEmotions\obj\Debug\net6.0\Borrador3Proyecto.csproj.CopyComplete
+C:\Users\tatia\OneDrive\Documentos\GitHub\MusicEmotions\Music\MusicEmotions\obj\Debug\net6.0\Borrador3Proyecto.dll
+C:\Users\tatia\OneDrive\Documentos\GitHub\MusicEmotions\Music\MusicEmotions\obj\Debug\net6.0\refint\Borrador3Proyecto.dll
+C:\Users\tatia\OneDrive\Documentos\GitHub\MusicEmotions\Music\MusicEmotions\obj\Debug\net6.0\Borrador3Proyecto.pdb
+C:\Users\tatia\OneDrive\Documentos\GitHub\MusicEmotions\Music\MusicEmotions\obj\Debug\net6.0\Borrador3Proyecto.genruntimeconfig.cache
+C:\Users\tatia\OneDrive\Documentos\GitHub\MusicEmotions\Music\MusicEmotions\obj\Debug\net6.0\ref\Borrador3Proyecto.dll
+C:\Users\tatia\OneDrive\Documentos\GitHub\MusicEmotions\Music\MusicEmotions\bin\Debug\net6.0\Data\musicemotions-cf347-firebase-adminsdk-ld0qe-2a4f43257e.json
+C:\Security\Secure Kas\bin\Debug\net6.0\Borrador3Proyecto.exe
+C:\Security\Secure Kas\bin\Debug\net6.0\Data\musicemotions-cf347-firebase-adminsdk-ld0qe-2a4f43257e.json
+C:\Security\Secure Kas\bin\Debug\net6.0\Borrador3Proyecto.deps.json
+C:\Security\Secure Kas\bin\Debug\net6.0\Borrador3Proyecto.runtimeconfig.json
+C:\Security\Secure Kas\bin\Debug\net6.0\Borrador3Proyecto.dll
+C:\Security\Secure Kas\bin\Debug\net6.0\Borrador3Proyecto.pdb
+C:\Security\Secure Kas\bin\Debug\net6.0\Google.Api.CommonProtos.dll
+C:\Security\Secure Kas\bin\Debug\net6.0\Google.Api.Gax.dll
+C:\Security\Secure Kas\bin\Debug\net6.0\Google.Api.Gax.Grpc.dll
+C:\Security\Secure Kas\bin\Debug\net6.0\Google.Apis.dll
+C:\Security\Secure Kas\bin\Debug\net6.0\Google.Apis.Auth.PlatformServices.dll
+C:\Security\Secure Kas\bin\Debug\net6.0\Google.Apis.Auth.dll
+C:\Security\Secure Kas\bin\Debug\net6.0\Google.Apis.Core.dll
+C:\Security\Secure Kas\bin\Debug\net6.0\Google.Cloud.Firestore.dll
+C:\Security\Secure Kas\bin\Debug\net6.0\Google.Cloud.Firestore.V1.dll
+C:\Security\Secure Kas\bin\Debug\net6.0\Google.Cloud.Location.dll
+C:\Security\Secure Kas\bin\Debug\net6.0\Google.LongRunning.dll
+C:\Security\Secure Kas\bin\Debug\net6.0\Google.Protobuf.dll
+C:\Security\Secure Kas\bin\Debug\net6.0\Grpc.Auth.dll
+C:\Security\Secure Kas\bin\Debug\net6.0\Grpc.Core.Api.dll
+C:\Security\Secure Kas\bin\Debug\net6.0\Grpc.Net.Client.dll
+C:\Security\Secure Kas\bin\Debug\net6.0\Grpc.Net.Common.dll
+C:\Security\Secure Kas\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Security\Secure Kas\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Security\Secure Kas\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Security\Secure Kas\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Security\Secure Kas\bin\Debug\net6.0\System.Linq.Async.dll
+C:\Security\Secure Kas\obj\Debug\net6.0\Borrador3Proyecto.csproj.AssemblyReference.cache
+C:\Security\Secure Kas\obj\Debug\net6.0\Borrador3Proyecto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Security\Secure Kas\obj\Debug\net6.0\Borrador3Proyecto.AssemblyInfoInputs.cache
+C:\Security\Secure Kas\obj\Debug\net6.0\Borrador3Proyecto.AssemblyInfo.cs
+C:\Security\Secure Kas\obj\Debug\net6.0\Borrador3Proyecto.csproj.CoreCompileInputs.cache
+C:\Security\Secure Kas\obj\Debug\net6.0\Borrador3Proyecto.csproj.CopyComplete
+C:\Security\Secure Kas\obj\Debug\net6.0\Borrador3Proyecto.dll
+C:\Security\Secure Kas\obj\Debug\net6.0\refint\Borrador3Proyecto.dll
+C:\Security\Secure Kas\obj\Debug\net6.0\Borrador3Proyecto.pdb
+C:\Security\Secure Kas\obj\Debug\net6.0\Borrador3Proyecto.genruntimeconfig.cache
+C:\Security\Secure Kas\obj\Debug\net6.0\ref\Borrador3Proyecto.dll
+C:\Users\torre\OneDrive - Fundación Universitaria Konrad Lorenz\Documentos\Visual Studio 2022\Proyecto\Emotions2-master\bin\Debug\net6.0\Borrador3Proyecto.exe
+C:\Users\torre\OneDrive - Fundación Universitaria Konrad Lorenz\Documentos\Visual Studio 2022\Proyecto\Emotions2-master\bin\Debug\net6.0\Data\musicemotions-cf347-firebase-adminsdk-ld0qe-2a4f43257e.json
+C:\Users\torre\OneDrive - Fundación Universitaria Konrad Lorenz\Documentos\Visual Studio 2022\Proyecto\Emotions2-master\bin\Debug\net6.0\Borrador3Proyecto.deps.json
+C:\Users\torre\OneDrive - Fundación Universitaria Konrad Lorenz\Documentos\Visual Studio 2022\Proyecto\Emotions2-master\bin\Debug\net6.0\Borrador3Proyecto.runtimeconfig.json
+C:\Users\torre\OneDrive - Fundación Universitaria Konrad Lorenz\Documentos\Visual Studio 2022\Proyecto\Emotions2-master\bin\Debug\net6.0\Borrador3Proyecto.dll
+C:\Users\torre\OneDrive - Fundación Universitaria Konrad Lorenz\Documentos\Visual Studio 2022\Proyecto\Emotions2-master\bin\Debug\net6.0\Borrador3Proyecto.pdb
+C:\Users\torre\OneDrive - Fundación Universitaria Konrad Lorenz\Documentos\Visual Studio 2022\Proyecto\Emotions2-master\bin\Debug\net6.0\Google.Api.CommonProtos.dll
+C:\Users\torre\OneDrive - Fundación Universitaria Konrad Lorenz\Documentos\Visual Studio 2022\Proyecto\Emotions2-master\bin\Debug\net6.0\Google.Api.Gax.dll
+C:\Users\torre\OneDrive - Fundación Universitaria Konrad Lorenz\Documentos\Visual Studio 2022\Proyecto\Emotions2-master\bin\Debug\net6.0\Google.Api.Gax.Grpc.dll
+C:\Users\torre\OneDrive - Fundación Universitaria Konrad Lorenz\Documentos\Visual Studio 2022\Proyecto\Emotions2-master\bin\Debug\net6.0\Google.Apis.dll
+C:\Users\torre\OneDrive - Fundación Universitaria Konrad Lorenz\Documentos\Visual Studio 2022\Proyecto\Emotions2-master\bin\Debug\net6.0\Google.Apis.Auth.PlatformServices.dll
+C:\Users\torre\OneDrive - Fundación Universitaria Konrad Lorenz\Documentos\Visual Studio 2022\Proyecto\Emotions2-master\bin\Debug\net6.0\Google.Apis.Auth.dll
+C:\Users\torre\OneDrive - Fundación Universitaria Konrad Lorenz\Documentos\Visual Studio 2022\Proyecto\Emotions2-master\bin\Debug\net6.0\Google.Apis.Core.dll
+C:\Users\torre\OneDrive - Fundación Universitaria Konrad Lorenz\Documentos\Visual Studio 2022\Proyecto\Emotions2-master\bin\Debug\net6.0\Google.Cloud.Firestore.dll
+C:\Users\torre\OneDrive - Fundación Universitaria Konrad Lorenz\Documentos\Visual Studio 2022\Proyecto\Emotions2-master\bin\Debug\net6.0\Google.Cloud.Firestore.V1.dll
+C:\Users\torre\OneDrive - Fundación Universitaria Konrad Lorenz\Documentos\Visual Studio 2022\Proyecto\Emotions2-master\bin\Debug\net6.0\Google.Cloud.Location.dll
+C:\Users\torre\OneDrive - Fundación Universitaria Konrad Lorenz\Documentos\Visual Studio 2022\Proyecto\Emotions2-master\bin\Debug\net6.0\Google.LongRunning.dll
+C:\Users\torre\OneDrive - Fundación Universitaria Konrad Lorenz\Documentos\Visual Studio 2022\Proyecto\Emotions2-master\bin\Debug\net6.0\Google.Protobuf.dll
+C:\Users\torre\OneDrive - Fundación Universitaria Konrad Lorenz\Documentos\Visual Studio 2022\Proyecto\Emotions2-master\bin\Debug\net6.0\Grpc.Auth.dll
+C:\Users\torre\OneDrive - Fundación Universitaria Konrad Lorenz\Documentos\Visual Studio 2022\Proyecto\Emotions2-master\bin\Debug\net6.0\Grpc.Core.Api.dll
+C:\Users\torre\OneDrive - Fundación Universitaria Konrad Lorenz\Documentos\Visual Studio 2022\Proyecto\Emotions2-master\bin\Debug\net6.0\Grpc.Net.Client.dll
+C:\Users\torre\OneDrive - Fundación Universitaria Konrad Lorenz\Documentos\Visual Studio 2022\Proyecto\Emotions2-master\bin\Debug\net6.0\Grpc.Net.Common.dll
+C:\Users\torre\OneDrive - Fundación Universitaria Konrad Lorenz\Documentos\Visual Studio 2022\Proyecto\Emotions2-master\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\torre\OneDrive - Fundación Universitaria Konrad Lorenz\Documentos\Visual Studio 2022\Proyecto\Emotions2-master\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\torre\OneDrive - Fundación Universitaria Konrad Lorenz\Documentos\Visual Studio 2022\Proyecto\Emotions2-master\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\torre\OneDrive - Fundación Universitaria Konrad Lorenz\Documentos\Visual Studio 2022\Proyecto\Emotions2-master\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\torre\OneDrive - Fundación Universitaria Konrad Lorenz\Documentos\Visual Studio 2022\Proyecto\Emotions2-master\bin\Debug\net6.0\System.Linq.Async.dll
+C:\Users\torre\OneDrive - Fundación Universitaria Konrad Lorenz\Documentos\Visual Studio 2022\Proyecto\Emotions2-master\obj\Debug\net6.0\Borrador3Proyecto.csproj.AssemblyReference.cache
+C:\Users\torre\OneDrive - Fundación Universitaria Konrad Lorenz\Documentos\Visual Studio 2022\Proyecto\Emotions2-master\obj\Debug\net6.0\Borrador3Proyecto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\torre\OneDrive - Fundación Universitaria Konrad Lorenz\Documentos\Visual Studio 2022\Proyecto\Emotions2-master\obj\Debug\net6.0\Borrador3Proyecto.AssemblyInfoInputs.cache
+C:\Users\torre\OneDrive - Fundación Universitaria Konrad Lorenz\Documentos\Visual Studio 2022\Proyecto\Emotions2-master\obj\Debug\net6.0\Borrador3Proyecto.AssemblyInfo.cs
+C:\Users\torre\OneDrive - Fundación Universitaria Konrad Lorenz\Documentos\Visual Studio 2022\Proyecto\Emotions2-master\obj\Debug\net6.0\Borrador3Proyecto.csproj.CoreCompileInputs.cache
+C:\Users\torre\OneDrive - Fundación Universitaria Konrad Lorenz\Documentos\Visual Studio 2022\Proyecto\Emotions2-master\obj\Debug\net6.0\Borrador3Proyecto.csproj.CopyComplete
+C:\Users\torre\OneDrive - Fundación Universitaria Konrad Lorenz\Documentos\Visual Studio 2022\Proyecto\Emotions2-master\obj\Debug\net6.0\Borrador3Proyecto.dll
+C:\Users\torre\OneDrive - Fundación Universitaria Konrad Lorenz\Documentos\Visual Studio 2022\Proyecto\Emotions2-master\obj\Debug\net6.0\refint\Borrador3Proyecto.dll
+C:\Users\torre\OneDrive - Fundación Universitaria Konrad Lorenz\Documentos\Visual Studio 2022\Proyecto\Emotions2-master\obj\Debug\net6.0\Borrador3Proyecto.pdb
+C:\Users\torre\OneDrive - Fundación Universitaria Konrad Lorenz\Documentos\Visual Studio 2022\Proyecto\Emotions2-master\obj\Debug\net6.0\Borrador3Proyecto.genruntimeconfig.cache
+C:\Users\torre\OneDrive - Fundación Universitaria Konrad Lorenz\Documentos\Visual Studio 2022\Proyecto\Emotions2-master\obj\Debug\net6.0\ref\Borrador3Proyecto.dll

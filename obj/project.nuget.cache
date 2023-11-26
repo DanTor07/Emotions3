@@ -1,0 +1,32 @@
+{
+  "version": 2,
+  "dgSpecHash": "CWbvOUWtXzdAQe4aSyeTM/fhqHHpaJspEs/T7CAGIyNghS6Uw9VWmQpZ5O8l1ADw5LIwCwjlkzU3Ewvt/OWxYQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\torre\\OneDrive - Fundación Universitaria Konrad Lorenz\\Documentos\\Visual Studio 2022\\Proyecto\\Emotions2-master\\Borrador3Proyecto.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\torre\\.nuget\\packages\\google.api.commonprotos\\2.10.0\\google.api.commonprotos.2.10.0.nupkg.sha512",
+    "C:\\Users\\torre\\.nuget\\packages\\google.api.gax\\4.4.0\\google.api.gax.4.4.0.nupkg.sha512",
+    "C:\\Users\\torre\\.nuget\\packages\\google.api.gax.grpc\\4.4.0\\google.api.gax.grpc.4.4.0.nupkg.sha512",
+    "C:\\Users\\torre\\.nuget\\packages\\google.apis\\1.60.0\\google.apis.1.60.0.nupkg.sha512",
+    "C:\\Users\\torre\\.nuget\\packages\\google.apis.auth\\1.60.0\\google.apis.auth.1.60.0.nupkg.sha512",
+    "C:\\Users\\torre\\.nuget\\packages\\google.apis.core\\1.60.0\\google.apis.core.1.60.0.nupkg.sha512",
+    "C:\\Users\\torre\\.nuget\\packages\\google.cloud.firestore\\3.4.0\\google.cloud.firestore.3.4.0.nupkg.sha512",
+    "C:\\Users\\torre\\.nuget\\packages\\google.cloud.firestore.v1\\3.4.0\\google.cloud.firestore.v1.3.4.0.nupkg.sha512",
+    "C:\\Users\\torre\\.nuget\\packages\\google.cloud.location\\2.0.0\\google.cloud.location.2.0.0.nupkg.sha512",
+    "C:\\Users\\torre\\.nuget\\packages\\google.longrunning\\3.0.0\\google.longrunning.3.0.0.nupkg.sha512",
+    "C:\\Users\\torre\\.nuget\\packages\\google.protobuf\\3.23.0\\google.protobuf.3.23.0.nupkg.sha512",
+    "C:\\Users\\torre\\.nuget\\packages\\grpc.auth\\2.53.0\\grpc.auth.2.53.0.nupkg.sha512",
+    "C:\\Users\\torre\\.nuget\\packages\\grpc.core.api\\2.53.0\\grpc.core.api.2.53.0.nupkg.sha512",
+    "C:\\Users\\torre\\.nuget\\packages\\grpc.net.client\\2.53.0\\grpc.net.client.2.53.0.nupkg.sha512",
+    "C:\\Users\\torre\\.nuget\\packages\\grpc.net.common\\2.53.0\\grpc.net.common.2.53.0.nupkg.sha512",
+    "C:\\Users\\torre\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\6.0.0\\microsoft.bcl.asyncinterfaces.6.0.0.nupkg.sha512",
+    "C:\\Users\\torre\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\6.0.0\\microsoft.extensions.dependencyinjection.abstractions.6.0.0.nupkg.sha512",
+    "C:\\Users\\torre\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\3.0.3\\microsoft.extensions.logging.abstractions.3.0.3.nupkg.sha512",
+    "C:\\Users\\torre\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512",
+    "C:\\Users\\torre\\.nuget\\packages\\system.collections.immutable\\6.0.0\\system.collections.immutable.6.0.0.nupkg.sha512",
+    "C:\\Users\\torre\\.nuget\\packages\\system.linq.async\\6.0.1\\system.linq.async.6.0.1.nupkg.sha512",
+    "C:\\Users\\torre\\.nuget\\packages\\system.memory\\4.5.3\\system.memory.4.5.3.nupkg.sha512",
+    "C:\\Users\\torre\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

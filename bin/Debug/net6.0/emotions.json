@@ -1,0 +1,647 @@
+{
+    "Sentimientos": [
+        {
+            "Emocion": "Aburrimiento",
+            "MusicList": [
+                {
+                    "Álbum": "Exile on Main St.",
+                    "Autor": "The Rolling Stones",
+                    "Género": "Rock",
+                    "URL de la Imagen del Álbum": "https://upload.wikimedia.org/wikipedia/en/thumb/c/ca/ExileMainSt.jpg/220px-ExileMainSt.jpg",
+                    "URL de la Imagen del Artista": "https://fotografias.larazon.es/clipping/cmsimages02/2019/08/08/4D6C6969-FBF8-4B71-80A6-59314F111E2A/98.jpg?crop=1031,580,x0,y114&width=1900&height=1069&optimize=low&format=webply",
+                    "URL del Video": "https://www.youtube.com/watch?v=w5HP2Xcy_eQ&list=PLWYs5zVlt6JAZ_8G9PMtNvDlxGX08ZRHo"
+                },
+                {
+                    "Álbum": "The Wall",
+                    "Autor": "Pink Floyd",
+                    "Género": "Rock Progresivo",
+                    "URL de la Imagen del Álbum": "https://upload.wikimedia.org/wikipedia/commons/b/b1/The_Wall_Cover.svg",
+                    "URL de la Imagen del Artista": "https://upload.wikimedia.org/wikipedia/en/thumb/d/d6/Pink_Floyd_-_all_members.jpg/250px-Pink_Floyd_-_all_members.jpg",
+                    "URL del Video": "https://www.youtube.com/watch?v/5IpYOF4Hi6Q"
+                },
+                {
+                    "Álbum": "Waiting for the Sun",
+                    "Autor": "The Doors",
+                    "Género": "Rock",
+                    "URL de la Imagen del Álbum": "https://upload.wikimedia.org/wikipedia/en/d/d3/The_Doors_-_Waiting_for_the_Sun.jpg",
+                    "URL de la Imagen del Artista": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Doors_electra_publicity_photo.JPG/1200px-Doors_electra_publicity_photo.JPG",
+                    "URL del Video": "https://www.youtube.com/watch?v=VUI-ELCdjxo"
+                },
+                {
+                    "Álbum": "Unknown Pleasures",
+                    "Autor": "Joy Division",
+                    "Género": "Post-Punk",
+                    "URL de la Imagen del Álbum": "https://post-punk.com/wp-content/uploads/2019/05/3368013_0.jpg",
+                    "URL de la Imagen del Artista": "https://indiehoy.com/wp-content/uploads/2021/12/joy-division.jpg",
+                    "URL del Video": "https://www.youtube.com/watch?v=oo7lt0lLOvg"
+                },
+                {
+                    "Álbum": "Metal Machine Music",
+                    "Autor": "Lou Reed",
+                    "Género": "Rock, Experimental",
+                    "URL de la Imagen del Álbum": "https://upload.wikimedia.org/wikipedia/en/6/65/Metal_machine_music.jpg",
+                    "URL de la Imagen del Artista": "https://imagenes.elpais.com/resizer/I3cWvhzjnCfdZJlT34PqX10AijI=/1960x1470/filters:focal(1575x960:1585x970)/cloudfront-eu-central-1.images.arcpublishing.com/prisa/CWWGF23HOFFR5I5RI4NKDK6PBQ.jpg",
+                    "URL del Video": "https://www.youtube.com/watch?v=PB1cEyy0fKs"
+                },
+                {
+                    "Álbum": "White Light/White Heat",
+                    "Autor": "The Velvet Underground",
+                    "Género": "Rock Alternativo",
+                    "URL de la Imagen del Álbum": "https://upload.wikimedia.org/wikipedia/en/6/61/Whitelightwhiteheat.jpg",
+                    "URL de la Imagen del Artista": "https://upload.wikimedia.org/wikipedia/commons/d/d8/Velvet_Underground_%26_Nico_publicity_photo_%28retouched%29.jpg",
+                    "URL del Video": "https://www.youtube.com/watch?v=5XAqomnqICU"
+                },
+                {
+                    "Álbum": "Washing Machine",
+                    "Autor": "Sonic Youth",
+                    "Género": "Rock Alternativo",
+                    "URL de la Imagen del Álbum": "https://upload.wikimedia.org/wikipedia/en/4/4d/Sonicyouthwashingmachine.png",
+                    "URL de la Imagen del Artista": "https://akamai.sscdn.co/uploadfile/letras/fotos/f/0/3/f/f03f2fdd319e6e2ffaefe93bd6d41989.jpg",
+                    "URL del Video": "https://www.youtube.com/watch?v=N_brBShfdrE"
+                },
+                {
+                    "Álbum": "The Queen Is Dead",
+                    "Autor": "The Smiths",
+                    "Género": "Indie Rock",
+                    "URL de la Imagen del Álbum": "https://upload.wikimedia.org/wikipedia/en/e/ed/The-Queen-is-Dead-cover.png",
+                    "URL de la Imagen del Artista": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/The_Smiths_1985.jpg/800px-The_Smiths_1985.jpg",
+                    "URL del Video": "https://www.youtube.com/watch?v=eubgWMwSD0k"
+                },
+                {
+                    "Álbum": "Seventeen Seconds",
+                    "Autor": "The Cure",
+                    "Género": "Rock Alternativo",
+                    "URL de la Imagen del Álbum": "https://upload.wikimedia.org/wikipedia/en/a/a5/Seventeen_Seconds.jpg",
+                    "URL de la Imagen del Artista": "https://i.scdn.co/image/7ca743e822b80133971ccf5c70fcbd77a4f4f508",
+                    "URL del Video": "https://www.youtube.com/watch?v=ZKX7nCZgTNY&list=PLiN-7mukU_RE9rB9sj6ztn23zxZLdkAhR"
+                },
+                {
+                    "Álbum": "Pablo Honey",
+                    "Autor": "Radiohead",
+                    "Género": "Rock Alternativo",
+                    "URL de la Imagen del Álbum": "https://upload.wikimedia.org/wikipedia/en/0/0f/Radiohead.pablohoney.albumart.jpg",
+                    "URL de la Imagen del Artista": "https://upload.wikimedia.org/wikipedia/commons/6/6c/Radiohead.jpg",
+                    "URL del Video": "https://www.youtube.com/watch?v=OzL7u5teZhg&list=PLI6kLIhBBwmR8PEKHlHisrGG2-Zlfpotl"
+                }
+            ]
+        },
+
+        {
+            "Emocion": "Alegria",
+            "MusicList": [
+                {
+                    "Autor": "Pharrell Williams",
+                    "Género": "Pop",
+                    "Álbum": "G I R L",
+                    "URL del Video": "https://youtu.be/ZbZSe6N_BXs?si=5IgMegIKfC7iJUXu",
+                    "URL de la Imagen del Artista": "https://es.rollingstone.com/wp-content/uploads/2021/12/PR-Pharrell-Williams.jpg",
+                    "URL de la Imagen del Álbum": "https://upload.wikimedia.org/wikipedia/en/d/db/Pharrell_Williams_%E2%80%93_Girl_%28album_cover%29.png"
+                },
+
+                {
+                    "Autor": "Bruno Mars",
+                    "Género": "R&B, Pop",
+                    "Álbum": "24K Magic",
+                    "URL del Video": "https://www.youtube.com/watch?v=UqyT8IEBkvY",
+                    "URL de la Imagen del Artista": "https://media.timeout.com/images/104707687/750/562/image.jpg",
+                    "URL de la Imagen del Álbum": "https://images.cdn1.buscalibre.com/fit-in/360x360/59/6e/596ef24207d5d60b03b6b80027826ee2.jpg"
+                },
+
+                {
+                    "Autor": "Daft Punk",
+                    "Género": "Electrónica",
+                    "Álbum": "Random Access Memories",
+                    "URL del Video": "https://www.youtube.com/watch?v=wIMSU8otS-g",
+                    "URL de la Imagen del Artista": "https://media.revistavanityfair.es/photos/60e82eca64a1ecf164d05f13/master/w_1600%2C,c_limit/238997.jpg",
+                    "URL de la Imagen del Álbum": "https://naufraghost.com/images/covers/730/141.jpg"
+                },
+
+                {
+                    "Autor": "Katy Perry",
+                    "Género": "Pop",
+                    "Álbum": "Teenage Dream",
+                    "URL del Video": "https://www.youtube.com/watch?v=98WtmW-lfeE",
+                    "URL de la Imagen del Artista": "https://hips.hearstapps.com/hmg-prod/images/katy-perry-visits-the-siriusxm-studios-on-august-07-2019-in-news-photo-1587377884.jpg",
+                    "URL de la Imagen del Álbum": "https://static.wikia.nocookie.net/katyperry/images/8/87/Qwedc.jpg/revision/latest?cb=20130612180116&path-prefix=es"
+                },
+
+                {
+                    "Autor": "ABBA",
+                    "Género": "Pop",
+                    "Álbum": "ABBA Gold: Greatest Hits",
+                    "URL del Video": "https://www.youtube.com/watch?v=2ZUX3j6WLiQ&list=PLBEA362DAD76373B7",
+                    "URL de la Imagen del Artista": "https://s.france24.com/media/display/c5b34a38-0c37-11ec-9db2-005056a97e36/w:1280/p:4x3/ABBA.jpg",
+                    "URL de la Imagen del Álbum": "https://upload.wikimedia.org/wikipedia/en/3/30/ABBA_Gold_cover.png"
+                },
+
+                {
+                    "Autor": "Earth, Wind & Fire",
+                    "Género": "Funk, R&B",
+                    "Álbum": "Gratitude",
+                    "URL del Video": "https://www.youtube.com/watch?v=9nKTWkiWMHE",
+                    "URL de la Imagen del Artista": "https://www.rollingstone.com/wp-content/uploads/2018/06/rs-226972-GettyImages-74269926.jpg",
+                    "URL de la Imagen del Álbum": "https://i.scdn.co/image/ab67616d0000b27320348cbe8085fd2d310e2d74"
+                },
+
+                {
+                    "Autor": "The Beach Boys",
+                    "Género": "Pop, Rock",
+                    "Álbum": "Pet Sounds",
+                    "URL del Video": "https://www.youtube.com/watch?v=Mh_yhTyae08",
+                    "URL de la Imagen del Artista": "https://www.rollingstone.com/wp-content/uploads/2022/04/vcsPRAsset_3465972_133191_7f292bbe-5c49-4f45-a203-5a45ce5a7c9a_0.jpg",
+                    "URL de la Imagen del Álbum": "https://upload.wikimedia.org/wikipedia/en/b/bb/PetSoundsCover.jpg"
+                },
+
+                {
+                    "Álbum": "Songs in the Key of Life",
+                    "Autor": "Stevie Wonder",
+                    "Género": "R&B, Soul",
+                    "URL de la Imagen del Álbum": "https://upload.wikimedia.org/wikipedia/en/e/e2/Songs_in_the_key_of_life.jpg",
+                    "URL de la Imagen del Artista": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Stevie_Wonder_1994.jpg/220px-Stevie_Wonder_1994.jpg",
+                    "URL del Video": "https://www.youtube.com/watch?v=c7IYSAUj78g&list=RDQMK33ZUWvYvj4&start_radio=1"
+                },
+
+                {
+                    "Autor": "Gloria Gaynor",
+                    "Género": "Funk",
+                    "Álbum": "Love Tracks",
+                    "URL del Video": "https://www.youtube.com/watch?v=6dYWe1c3OyU",
+                    "URL de la Imagen del Artista": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Gloria_Gaynor_2012_%28cropped%29.jpg/220px-Gloria_Gaynor_2012_%28cropped%29.jpg",
+                    "URL de la Imagen del Álbum": "https://upload.wikimedia.org/wikipedia/en/7/7d/Love_Tracks_%28Gloria_Gaynor_album%29_%28fair_use%29.jpg"
+                }
+            ]
+        },
+        {
+            "Emocion": "Esperanza",
+            "MusicList": [
+                {
+                    "Género": "Pop, Rock",
+                    "Álbum": "Imagine",
+                    "URL del Video": "https://www.youtube.com/watch?v=VOgFZfRVaww",
+                    "URL de la Imagen del Artista": "https://album.mediaset.es/eimg/10000/2021/07/28/clipping_40n7Tq_ded9.jpg?w=1200",
+                    "URL de la Imagen del Álbum": "https://i0.wp.com/www.serendypia.com/wp-content/uploads/2020/09/imagine-1.jpg?fit=1140%2C660&ssl=1"
+                },
+
+                {
+                    "Autor": "Sarah Cothran",
+                    "Género": "Pop",
+                    "Álbum": "As The World Caves In - Matt Maltese",
+                    "URL del Video": "https://www.youtube.com/watch?v=SqDjQPoJxiw",
+                    "URL de la Imagen del Artista": "https://i.ytimg.com/vi/SqDjQPoJxiw/maxresdefault.jpg?sqp=-oaymwEmCIAKENAF8quKqQMa8AEB-AH-CYAC0AWKAgwIABABGHIgPyhAMA8=&rs=AOn4CLAg_3QGI4NBaY41aHucuWBYnqatGQ",
+                    "URL de la Imagen del Álbum": "https://upload.wikimedia.org/wikipedia/en/c/c2/BobMarley-Legend.jpg"
+                },
+
+                {
+                    "Autor": "U2",
+                    "Género": "Rock",
+                    "Álbum": "The Joshua Tree",
+                    "URL del Video": "https://www.youtube.com/watch?v=3FsrPEUt2Dg&list=PLIHqGfTiPiMWRadWXFtaSLGUI953vOTrt",
+                    "URL de la Imagen del Artista": "https://estaticos.elcolombiano.com/documents/10157/0/620x400/0c0/0d0/none/11101/EILJ/image_content_28801320_20170606102629.jpg",
+                    "URL de la Imagen del Álbum": "https://observer.com/wp-content/uploads/sites/2/2017/03/resized_joshua_tree_u2-cover.jpg?quality=80"
+                },
+
+                {
+                    "Autor": "Coldplay",
+                    "Género": "Pop, Rock",
+                    "Álbum": "A Rush of Blood to the Head",
+                    "URL del Video": "https://www.youtube.com/watch?v=AiebvAkb4LM",
+                    "URL de la Imagen del Artista": "https://i.scdn.co/image/ab6761610000e5eb989ed05e1f0570cc4726c2d3",
+                    "URL de la Imagen del Álbum": "https://lhcbreviews.files.wordpress.com/2016/10/a_rush_of_blood_to_the_head1.jpg?w=640"
+                },
+
+                {
+                    "Autor": "Imagine Dragons",
+                    "Género": "Pop, Rock",
+                    "Álbum": "Night Visions",
+                    "URL del Video": "https://www.youtube.com/watch?v=ajjj4pLnjz8&list=PLvklK-C2o3vxMbmDFvYAJjRcXR2UekEGL",
+                    "URL de la Imagen del Artista": "https://i.scdn.co/image/ab6761610000e5eb920dc1f617550de8388f368e",
+                    "URL de la Imagen del Álbum": "https://linkstorage.linkfire.com/medialinks/images/e8645262-f2fd-4633-90c3-dd483bc245c8/artwork-440x440.jpg"
+                },
+
+                {
+                    "Autor": "Bruce Springsteen",
+                    "Género": "Rock",
+                    "Álbum": "Born to Run",
+                    "URL del Video": "https://www.youtube.com/watch?v=Wu4_zVxmufY",
+                    "URL de la Imagen del Artista": "https://hips.hearstapps.com/hmg-prod/images/gettyimages-1526505346-64f1b62e67a24.jpg?resize=980:*",
+                    "URL de la Imagen del Álbum": "https://i0.wp.com/imgs.hipertextual.com/wp-content/uploads/2015/08/born-to-run-portada.jpg?fit=1100%2C730&quality=50&strip=all&ssl=1"
+                },
+
+                {
+                    "Autor": "Simon & Garfunkel",
+                    "Género": "Folk, Pop",
+                    "Álbum": "Bridge Over Troubled Water",
+                    "URL del Video": "https://www.youtube.com/watch?v=4G-YQA_bsOU",
+                    "URL de la Imagen del Artista": "https://www.biografiasyvidas.com/biografia/s/fotos/simon_garfunkel.jpg",
+                    "URL de la Imagen del Álbum": "https://upload.wikimedia.org/wikipedia/en/4/41/Simon_and_Garfunkel%2C_Bridge_over_Troubled_Water_%281970%29.png"
+                },
+
+                {
+                    "Autor": "R.E.M.",
+                    "Género": "Rock Alternativo",
+                    "Álbum": "Automatic for the People",
+                    "URL del Video": "https://www.youtube.com/watch?v=JEaxLGNm7PQ&list=PLyr02rEOrv-vgjDOycGMHeBOXx2UbHrk7",
+                    "URL de la Imagen del Artista": "https://los40.com/resizer/9pAzHW61YAoCiG9FD4pmbfFCcz0=/1200x675/filters:format(jpg):quality(70)/cloudfront-eu-central-1.images.arcpublishing.com/prisaradiolos40/VZZ45RYJMVKKRNLKDDSJT2M2FM.jpg",
+                    "URL de la Imagen del Álbum": "https://www.udiscovermusic.com/wp-content/uploads/2019/10/Automatic-For-The-People-album-cover-820-820x820.jpg"
+                },
+
+                {
+                    "Autor": "Tracy Chapman",
+                    "Género": "Folk, Pop",
+                    "Álbum": "Tracy Chapman",
+                    "URL del Video": "https://www.youtube.com/watch?v=DqoLMGSBGYc",
+                    "URL de la Imagen del Artista": "https://gray-ksnb-prod.cdn.arcpublishing.com/resizer/03BPGGuek3vtpr9KFHrrfgfdW2k=/1200x1200/smart/filters:quality(85)/cloudfront-us-east-1.images.arcpublishing.com/gray/ERZUI4GT4VEIXA7A4YKYYPUMFE.jpg",
+                    "URL de la Imagen del Álbum": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Tracy_Chapman_3.jpg/1200px-Tracy_Chapman_3.jpg"
+                },
+
+                {
+                    "Autor": "Labrinth & Zendaya",
+                    "Género": "Pop",
+                    "Álbum": "I'm Tired",
+                    "URL del Video": "https://www.youtube.com/watch?v=ZFe55-p7XJc",
+                    "URL de la Imagen del Artista": "https://tecoapple.com/wp-content/uploads/2022/02/labzendayatireda022.jpg",
+                    "URL de la Imagen del Álbum": "https://images.genius.com/d4d49fa33785d22e1c34cf60eb7002f5.999x999x1.png"
+                }
+            ]
+        },
+
+        {
+            "Emocion": "Ira",
+            "MusicList": [
+                {
+                    "Autor": "Rage Against the Machine",
+                    "Género": "Rock",
+                    "Álbum": "Rage Against the Machine",
+                    "URL del Video": "https://www.youtube.com/watch?v=bWXazVhlyxQ",
+                    "URL de la Imagen del Artista": "https://media.pitchfork.com/photos/64527d8bb7aea41ab5f1cbdb/3:2/w_3000,h_2000,c_limit/Rage-Against-the-Machine.jpg",
+                    "URL de la Imagen del Álbum": "https://www.fortindelcaballero.com/images/041819rage_againts_the_machine.jpg"
+                },
+
+                {
+                    "Autor": "Slipknot",
+                    "Género": "Metal",
+                    "Álbum": "Iowa",
+                    "URL del Video": "https://www.youtube.com/watch?v=S9PF09URHdQ",
+                    "URL de la Imagen del Artista": "https://i.scdn.co/image/ab6761610000e5ebec01c52d6030a1574070e308",
+                    "URL de la Imagen del Álbum": "https://upload.wikimedia.org/wikipedia/en/1/1d/Slipknot_Iowa.jpg"
+                },
+
+                {
+                    "Autor": "System of a Down",
+                    "Género": "Metal Alternativo",
+                    "Álbum": "Toxicity",
+                    "URL del Video": "https://www.youtube.com/watch?v=iywaBOMvYLI",
+                    "URL de la Imagen del Artista": "https://rtvc-assets-radionica3.s3.amazonaws.com/s3fs-public/styles/1200x630/public/2022-11/systemofadown.jpg?itok=b6eU3tgS",
+                    "URL de la Imagen del Álbum": "https://upload.wikimedia.org/wikipedia/en/6/64/SystemofaDownToxicityalbumcover.jpg"
+                },
+
+                {
+                    "Autor": "Slayer",
+                    "Género": "Thrash Metal",
+                    "Álbum": "Reign in Blood",
+                    "URL del Video": "https://www.youtube.com/watch?v=Gy3BOmvLf2w",
+                    "URL de la Imagen del Artista": "https://images.squarespace-cdn.com/content/v1/55ccf522e4b0fc9c2b651a5d/1439502210253-2OMTO5GGZ5MMO26T0HBE/Slayer_Social_Sharing_Logo.jpg",
+                    "URL de la Imagen del Álbum": "https://upload.wikimedia.org/wikipedia/en/8/8e/Reign_in_blood.jpg"
+                },
+
+                {
+                    "Autor": "Pantera",
+                    "Género": "Metal",
+                    "Álbum": "Vulgar Display of Power",
+                    "URL del Video": "https://www.youtube.com/watch?v=FTOilfxhwxs",
+                    "URL de la Imagen del Artista": "https://i.ytimg.com/vi/utnWWElUb1I/sddefault.jpg",
+                    "URL de la Imagen del Álbum": "https://www.autopistarock.com/images/easyblog_articles/5378/b2ap3_amp_Vulgarvin_opt.jpg"
+                },
+
+                {
+                    "Autor": "Nine Inch Nails",
+                    "Género": "Industrial",
+                    "Álbum": "The Downward Spiral",
+                    "URL del Video": "https://www.youtube.com/watch?v=htofkr4Fh3Q",
+                    "URL de la Imagen del Artista": "https://www.futuro.cl/wp-content/uploads/2022/05/nine-inch-nails-1994-vertical-web-768x432.jpg",
+                    "URL de la Imagen del Álbum": "https://www.revolvermag.com/sites/default/files/meta_images/thedownwardspiralalbumart_crop.jpg"
+                },
+
+                {
+                    "Autor": "Lamb of God",
+                    "Género": "Metal",
+                    "Álbum": "Sacrament",
+                    "URL del Video": "https://www.youtube.com/watch?v=ZPzsx3AdHpw&list=PLxy1hNzYBr7W1xxK2dcg-8pLlp4r_7L7o",
+                    "URL de la Imagen del Artista": "https://i.scdn.co/image/ab6761610000e5ebb943a08242864dc3364a9478",
+                    "URL de la Imagen del Álbum": "https://upload.wikimedia.org/wikipedia/en/e/e3/Lamb_of_god_sacrament.jpg"
+                },
+
+                {
+                    "Autor": "Marilyn Manson",
+                    "Género": "Industrial Rock",
+                    "Álbum": "Antichrist Superstar",
+                    "URL del Video": "https://www.youtube.com/watch?v=NPQD7KxutcM",
+                    "URL de la Imagen del Artista": "https://people.com/thmb/Pa7ODS7FYGplf1KTz54xgJSDk3U=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():focal(959x492:961x494)/Marilyn-Manson-013023-02-2000-03ebf04ab15c4e228feba3756cf91238.jpg",
+                    "URL de la Imagen del Álbum": "https://upload.wikimedia.org/wikipedia/en/d/d5/Marilyn_Manson_-_Antichrist_Superstar.png"
+                },
+
+                {
+                    "Autor": "Korn",
+                    "Género": "Nu Metal",
+                    "Álbum": "Follow the Leader",
+                    "URL del Video": "https://www.youtube.com/watch?v=yQwnNfSZM8M",
+                    "URL de la Imagen del Artista": "https://estaticos.elcolombiano.com/documents/10157/0/546x364/0c0/0d0/none/11101/BMNN/image_content_27247007_20161026172349.jpg",
+                    "URL de la Imagen del Álbum": "https://upload.wikimedia.org/wikipedia/en/5/52/Korn_follow_the_leader.jpg"
+                },
+
+                {
+                    "Autor": "Limp Bizkit",
+                    "Género": "Nu Metal",
+                    "Álbum": "Significant Other",
+                    "URL del Video": "https://www.youtube.com/watch?v=y_kfT0A4wnk",
+                    "URL de la Imagen del Artista": "https://i.ytimg.com/vi/ZpUYjpKg9KY/maxresdefault.jpg",
+                    "URL de la Imagen del Álbum": "https://upload.wikimedia.org/wikipedia/en/b/b8/Limp_Bizkit_Significant_Other.jpg"
+                }
+            ]
+        },
+        {
+            "Emocion": "Nostalgico",
+            "MusicList": [
+                {
+                    "Autor": "Elvis Presley",
+                    "Género": "Rock and Roll",
+                    "Álbum": "Elvis Presley",
+                    "URL del Video": "https://www.youtube.com/watch?v=vGJTaP6anOU",
+                    "URL de la Imagen del Artista": "https://s2.abcstatics.com/abc/www/multimedia/gente/2023/06/24/P3-Elvis-RLnTumBZiHaohPNCi52x78K-366x256@abc.jpeg",
+                    "URL de la Imagen del Álbum": "https://upload.wikimedia.org/wikipedia/en/f/f5/Elvis_Presley_LPM-1254_Album_Cover.jpg"
+                },
+
+                {
+                    "Autor": "Buddy Holly",
+                    "Género": "Rock and Roll",
+                    "Álbum": "Buddy Holly",
+                    "URL del Video": "https://www.youtube.com/watch?v=YwHrx0r0t2s&list=RDEM9WObaRMwPg1EKrtZxhWQ2w&start_radio=1",
+                    "URL de la Imagen del Artista": "https://upload.wikimedia.org/wikipedia/commons/0/00/Buddy_Holly_Brunswick_Records.jpg",
+                    "URL de la Imagen del Álbum": "https://e.snmc.io/i/1200/s/3e688aa64f5021cff88434b4dcae970c/8043984"
+                },
+
+                {
+                    "Autor": "The Beatles",
+                    "Género": "Rock",
+                    "Álbum": "Rubber Soul",
+                    "URL del Video": "https://www.youtube.com/watch?v=kfSQkZuIx84&list=PLycVTiaj8OI9Ptzsl9nzxfwUgZ0jx-Hyb",
+                    "URL de la Imagen del Artista": "https://s.france24.com/media/display/6b13077e-e07b-11e9-b12e-005056a98db9/w:1280/p:16x9/portada_beatles_0.jpg",
+                    "URL de la Imagen del Álbum": "https://upload.wikimedia.org/wikipedia/en/7/74/Rubber_Soul.jpg"
+                },
+
+                {
+                    "Autor": "The Beach Boys",
+                    "Género": "Rock",
+                    "Álbum": "Pet Sounds",
+                    "URL del Video": "https://www.youtube.com/watch?v=-LeE86jZEXo&list=PLrs2g03ILsleCw-Jnr_bdBoR_VD_ETkEb",
+                    "URL de la Imagen del Artista": "https://imagenes.elpais.com/resizer/GoTQNZs31E8_5CJdqL1uEMbr8aU=/1960x1103/cloudfront-eu-central-1.images.arcpublishing.com/prisa/JBMDH2EKC5TA6KFLKVI4463JXI.jpg",
+                    "URL de la Imagen del Álbum": "https://upload.wikimedia.org/wikipedia/en/b/bb/PetSoundsCover.jpg"
+                },
+
+                {
+                    "Autor": "Simon & Garfunkel",
+                    "Género": "Folk",
+                    "Álbum": "Bookends",
+                    "URL del Video": "https://www.youtube.com/watch?v=sovVYInjHjw",
+                    "URL de la Imagen del Artista": "https://www.biografiasyvidas.com/biografia/s/fotos/simon_garfunkel.jpg",
+                    "URL de la Imagen del Álbum": "https://upload.wikimedia.org/wikipedia/en/c/ca/Simon_and_Garfunkel%2C_Bookends_%281968%29.png"
+                },
+
+                {
+                    "Autor": "Bob Dylan",
+                    "Género": "Folk, Rock",
+                    "Álbum": "The Times They Are A-Changin'",
+                    "URL del Video": "https://www.youtube.com/watch?v=90WD_ats6eE",
+                    "URL de la Imagen del Artista": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Bob_Dylan_-_Azkena_Rock_Festival_2010_2.jpg/640px-Bob_Dylan_-_Azkena_Rock_Festival_2010_2.jpg",
+                    "URL de la Imagen del Álbum": "https://upload.wikimedia.org/wikipedia/en/f/f1/Bob_Dylan_-_The_Times_They_Are_a-Changin%27.jpg"
+                },
+
+                {
+                    "Autor": "Frank Sinatra",
+                    "Género": "Jazz, Swing",
+                    "Álbum": "In the Wee Small Hours",
+                    "URL del Video": "https://www.youtube.com/watch?v=d9MvNjiLbJc&list=PLsoD4eYuzH2U4NOhyNrLc8LoB4iiPLdrE",
+                    "URL de la Imagen del Artista": "https://upload.wikimedia.org/wikipedia/commons/e/e3/Frank_Sinatra_%281957_studio_portrait_close-up%29.jpg",
+                    "URL de la Imagen del Álbum": "https://upload.wikimedia.org/wikipedia/en/1/12/Wee_small_hours_album_cover_high_definition.jpg"
+                },
+
+                {
+                    "Autor": "Johnny Cash",
+                    "Género": "Country, Rock",
+                    "Álbum": "American IV: The Man Comes Around",
+                    "URL del Video": "https://www.youtube.com/watch?v=-QuV3GdOk34",
+                    "URL de la Imagen del Artista": "https://upload.wikimedia.org/wikipedia/commons/c/c2/Johnny_Cash_1977.jpg",
+                    "URL de la Imagen del Álbum": "https://m.media-amazon.com/images/I/61IhE4t7bQL._UF1000,1000_QL80_.jpg"
+                },
+
+                {
+                    "Autor": "Neil Young",
+                    "Género": "Rock, Folk",
+                    "Álbum": "Harvest",
+                    "URL del Video": "https://www.youtube.com/watch?v=y97hY4djNHE",
+                    "URL de la Imagen del Artista": "https://i.guim.co.uk/img/media/b16b2b7485a7a0b8fc985da57d8791d78ea7766f/0_149_5162_3097/master/5162.jpg?width=1200&height=1200&quality=85&auto=format&fit=crop&s=5d24439471653b4fdaf0978f47787cb7",
+                    "URL de la Imagen del Álbum": "https://upload.wikimedia.org/wikipedia/en/9/9b/NeilYoungHarvestalbumcover.jpg"
+                },
+
+                {
+                    "Autor": "Bill Withers",
+                    "Género": "Soul, R&B",
+                    "Álbum": "Still Bill",
+                    "URL del Video": "https://www.youtube.com/watch?v=Gz5HYuVhWhI",
+                    "URL de la Imagen del Artista": "https://media.npr.org/assets/img/2020/04/04/ap_060622040867-5973505de532c185a22e43e7caff976e8e73a900.jpg",
+                    "URL de la Imagen del Álbum": "https://upload.wikimedia.org/wikipedia/en/1/19/Still_Bill.jpg"
+                }
+            ]
+        },
+
+        {
+            "Emocion": "Romance",
+            "MusicList": [
+                {
+                    "Autor": "Ed Sheeran",
+                    "Género": "Pop",
+                    "Álbum": "÷ (Divide)",
+                    "URL del Video": "https://www.youtube.com/watch?v=OEFWiqiHxcI",
+                    "URL de la Imagen del Artista": "https://static.wikia.nocookie.net/taylorswift/images/4/4d/Ed_Sheeran.jpg/revision/latest?cb=20210906115558&path-prefix=es",
+                    "URL de la Imagen del Álbum": "https://upload.wikimedia.org/wikipedia/en/4/45/Divide_cover.png"
+                },
+
+                {
+                    "Autor": "Joji",
+                    "Género": "Pop",
+                    "Álbum": "Like You Do",
+                    "URL del Video": "https://www.youtube.com/watch?v=Bv-1BnoB75k",
+                    "URL de la Imagen del Artista": "https://hips.hearstapps.com/hmg-prod/images/joji-mcm-square-1560751785.png",
+                    "URL de la Imagen del Álbum": "https://i.ytimg.com/vi/Bv-1BnoB75k/sddefault.jpg"
+                },
+
+                {
+                    "Autor": "Bruno Mars",
+                    "Género": "Pop, R&B",
+                    "Álbum": "Unorthodox Jukebox",
+                    "URL del Video": "https://www.youtube.com/watch?v=gS5wFRB6qA0&list=PLFAcddgaFN8w-uGz2pbqPogo6sAPGOi7L",
+                    "URL de la Imagen del Artista": "https://akamai.sscdn.co/uploadfile/letras/fotos/1/e/8/a/1e8a37de4b4da507a4ef5da85020c8e4.jpg",
+                    "URL de la Imagen del Álbum": "https://upload.wikimedia.org/wikipedia/en/7/77/BrunoMarsUJAlbumCover.png"
+                },
+
+                {
+                    "Autor": "Whitney Houston",
+                    "Género": "R&B, Pop",
+                    "Álbum": "Whitney Houston",
+                    "URL del Video": "https://www.youtube.com/watch?v=3JWTaaS7LdU",
+                    "URL de la Imagen del Artista": "https://assets.vogue.com/photos/5fa971921e4b5e42229c1abb/master/w_1600%2Cc_limit/WHITNEY_HOUSTON_PORTRAIT.jpg",
+                    "URL de la Imagen del Álbum": "https://upload.wikimedia.org/wikipedia/en/9/96/Whitney_Houston%2C_Self_Titled.png"
+                },
+
+                {
+                    "Autor": "Barry White",
+                    "Género": "R&B, Soul",
+                    "Álbum": "Can't Get Enough",
+                    "URL del Video": "https://www.youtube.com/watch?v=hgzCrjkcm0Y",
+                    "URL de la Imagen del Artista": "https://upload.wikimedia.org/wikipedia/commons/b/b2/Barry_White%2C_Bestanddeelnr_927-0098_%28cropped%29.jpg",
+                    "URL de la Imagen del Álbum": "https://upload.wikimedia.org/wikipedia/en/4/4e/Barry_White_Cant_Get_Enough.jpg"
+                },
+
+                {
+                    "Autor": "Celine Dion",
+                    "Género": "Pop",
+                    "Álbum": "Falling into You",
+                    "URL del Video": "https://www.youtube.com/watch?v=8tWMCGRWr-Y",
+                    "URL de la Imagen del Artista": "https://www.lahiguera.net/musicalia/artistas/celine_dion/fotos/10203/celine_dion.jpg",
+                    "URL de la Imagen del Álbum": "https://upload.wikimedia.org/wikipedia/en/c/c2/Falling_into_You.png"
+                },
+
+                {
+                    "Autor": "Lionel Richie",
+                    "Género": "R&B, Pop",
+                    "Álbum": "Can't Slow Down",
+                    "URL del Video": "https://www.youtube.com/watch?v=8P3Vw85Gz5A&list=PLO_fpm3byuVE_fKbVE8s2f-dvjp64FaN4",
+                    "URL de la Imagen del Artista": "https://upload.wikimedia.org/wikipedia/commons/5/53/Lionel_Richie_2022_%2851930307118%29_%28cropped%29.jpg",
+                    "URL de la Imagen del Álbum": "https://upload.wikimedia.org/wikipedia/en/4/46/Richieslow.jpg"
+                },
+
+                {
+                    "Autor": "Norah Jones",
+                    "Género": "Jazz, Pop",
+                    "Álbum": "Come Away with Me",
+                    "URL del Video": "https://www.youtube.com/watch?v=9e5qNUd6gBA&list=PLPT2ybbCaDoI6aJ3gWJeSqsAcA1PjZ9dk",
+                    "URL de la Imagen del Artista": "https://media.npr.org/assets/img/2019/06/05/norah-jones-1-credit-clay-patrick-mcbride_wide-956580b4a824e76d25b3e9a53d50007b78a8b9a2.jpg",
+                    "URL de la Imagen del Álbum": "https://www.lamusica.com.co/cdn/shop/products/NorahJones_ComeAwayWithMeCD.jpg?v=1598915084"
+                },
+
+                {
+                    "Autor": "Elton John",
+                    "Género": "Pop, Rock",
+                    "Álbum": "Goodbye Yellow Brick Road",
+                    "URL del Video": "https://youtu.be/x5QvbnwMOkA?si=prJCzvVSRD9owXOi",
+                    "URL de la Imagen del Artista": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Glasto2023_%28419_of_468%29_%2853009098414%29_%28cropped%29.jpg/640px-Glasto2023_%28419_of_468%29_%2853009098414%29_%28cropped%29.jpg",
+                    "URL de la Imagen del Álbum": "https://upload.wikimedia.org/wikipedia/en/8/86/Elton_John_-_Goodbye_Yellow_Brick_Road.jpg"
+                },
+
+                {
+                    "Autor": "Marvin Gaye",
+                    "Género": "R&B, Soul",
+                    "Álbum": "Let's Get It On",
+                    "URL del Video": "https://www.youtube.com/watch?v=x6QZn9xiuOE",
+                    "URL de la Imagen del Artista": "https://static.independent.co.uk/2021/05/12/18/newFile-9.jpg",
+                    "URL de la Imagen del Álbum": "https://upload.wikimedia.org/wikipedia/en/6/69/Let%27s_Get_It_On.jpg"
+                }
+            ]
+        },
+        {
+            "Emocion": "Tristeza",
+            "MusicList": [
+                {
+                    "Autor": "Adele",
+                    "Género": "Pop",
+                    "Álbum": "21",
+                    "URL del Video": "https://www.youtube.com/watch?v=UMtFjkaJ2VU&list=PLqC0BHAcW3Wev1d0r4d_c4mT3kEeL8xb-",
+                    "URL de la Imagen del Artista": "https://ca-times.brightspotcdn.com/dims4/default/8664796/2147483647/strip/false/crop/4130x2753+0+0/resize/1486x991!/quality/75/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F20%2F97%2F8efe5252454bb8e81b911ef18f17%2Fbritain-brit-awards-2022-arrivals-05121.jpg",
+                    "URL de la Imagen del Álbum": "https://upload.wikimedia.org/wikipedia/en/1/1b/Adele_-_21.png"
+                },
+
+                {
+                    "Autor": "Sam Smith",
+                    "Género": "Pop, R&B",
+                    "Álbum": "In the Lonely Hour",
+                    "URL del Video": "https://www.youtube.com/watch?v=w0iPa5L_H9g&list=PLe30UiAEzig4Lnucyy2zT5EA-BsyxyfG6",
+                    "URL de la Imagen del Artista": "https://static.independentespanol.com/2020/10/17/16/newFile.jpg",
+                    "URL de la Imagen del Álbum": "https://www.lamusica.com.co/cdn/shop/products/SAM-SMITH-1.jpg?v=1590758068"
+                },
+
+                {
+                    "Autor": "Billie Eilish",
+                    "Género": "Pop, Electrónica",
+                    "Álbum": "When We All Fall Asleep, Where Do We Go?",
+                    "URL del Video": "https://www.youtube.com/watch?v=XJBUWZsT38c&list=PLMSmPqvJ6siJwH_c2H_N8j9JqDt8ogyny",
+                    "URL de la Imagen del Artista": "https://aws-modapedia.vogue.es/prod/designs/v1/assets/640x427/1465.jpg",
+                    "URL de la Imagen del Álbum": "https://www.nacionrex.com/__export/1549310429627/sites/debate/img/2019/02/04/billie_eilish_when_we_all_fall_asleep_tour_2019_fechas_gira_mundial.jpg_554688468.jpg"
+                },
+
+                {
+                    "Autor": "James Blunt",
+                    "Género": "Pop",
+                    "Álbum": "Back to Bedlam",
+                    "URL del Video": "https://www.youtube.com/watch?v=6z4Ksjwyg9k",
+                    "URL de la Imagen del Artista": "https://image.europafm.com/clipping/cmsimages01/2022/02/15/2F72D4F2-D25C-4AF5-BE87-13525E945588/james-blunt_98.jpg?crop=1010,568,x73,y0&width=1900&height=1069&optimize=low&format=webply",
+                    "URL de la Imagen del Álbum": "https://m.media-amazon.com/images/I/81KHwgVI0WL._UF1000,1000_QL80_.jpg"
+                },
+
+                {
+                    "Autor": "Radiohead",
+                    "Género": "Rock Alternativo",
+                    "Álbum": "OK Computer",
+                    "URL del Video": "https://www.youtube.com/watch?v=jNY_wLukVW0&list=PLxzSZG7g8c8x6GYz_FcNr-3zPQ7npP6WF",
+                    "URL de la Imagen del Artista": "https://imagenes.elpais.com/resizer/emzL-906WZ3UPCRwiL_VvkHp4l4=/1960x1470/cloudfront-eu-central-1.images-arcpublishing.com/prisa/53BVJ5SD7P3BOLTKLHMFXZQXVA.jpg",
+                    "URL de la Imagen del Álbum": "https://upload.wikimedia.org/wikipedia/en/b/ba/Radioheadokcomputer.png"
+                },
+
+                {
+                    "Autor": "Lana Del Rey",
+                    "Género": "Pop, Dream Pop",
+                    "Álbum": "Born to Die",
+                    "URL del Video": "https://www.youtube.com/watch?v=Bag1gUxuU0g",
+                    "URL de la Imagen del Artista": "https://upload.wikimedia.org/wikipedia/commons/d/d5/Lana_Del_Rey_%40_Grammy_Museum_10_13_2019_%2849311023203%29.jpg",
+                    "URL de la Imagen del Álbum": "https://www.lamusica.com.co/cdn/shop/products/LanaDelRey_BornToDie.jpg?v=1594219786"
+                },
+
+                {
+                    "Autor": "Sia",
+                    "Género": "Pop",
+                    "Álbum": "1000 Forms of Fear",
+                    "URL del Video": "https://www.youtube.com/watch?v=4vH_zROJ35U&list=PLe30UiAEzig4-m874ZzOf21IJbIhEp91k",
+                    "URL de la Imagen del Artista": "https://c8.alamy.com/compes/e0m0fn/sia-furler-cantante-australiano-en-mayo-de-2014-foto-jeffrey-mayer-e0m0fn.jpg",
+                    "URL de la Imagen del Álbum": "https://www.lamusica.com.co/cdn/shop/products/Sia_1000FormsOfFearLP.jpg?v=1600459731"
+                },
+
+                {
+                    "Autor": "Elliott Smith",
+                    "Género": "Indie Folk",
+                    "Álbum": "Either/Or",
+                    "URL del Video": "https://www.youtube.com/watch?v=UuizNQUOFCI&list=PL6KwzgIePF4BbeyY14AVTLNz12UjMcJWC",
+                    "URL de la Imagen del Artista": "https://upload.wikimedia.org/wikipedia/commons/8/8c/Elliott_Smith.jpg",
+                    "URL de la Imagen del Álbum": "https://upload.wikimedia.org/wikipedia/en/f/fd/Elliottsmitheitheror55.jpg"
+                },
+
+                {
+                    "Autor": "Nick Cave & The Bad Seeds",
+                    "Género": "Rock Alternativo",
+                    "Álbum": "Skeleton Tree",
+                    "URL del Video": "https://www.youtube.com/watch?v=O7tfTBtpR0E",
+                    "URL de la Imagen del Artista": "https://cdns-images.dzcdn.net/images/artist/c81acb9b05e8b29b4699f2c2bd05213b/500x500.jpg",
+                    "URL de la Imagen del Álbum": "https://upload.wikimedia.org/wikipedia/commons/0/0d/Nick_Cave_and_The_Bad_Seeds_-_Skeleton_Tree.jpg"
+                },
+
+                {
+                    "Autor": "Leonard Cohen",
+                    "Género": "Folk, Pop",
+                    "Álbum": "Songs of Leonard Cohen",
+                    "URL del Video": "https://www.youtube.com/watch?v=svitEEpI07E&list=PLiN-7mukU_RGWHfkLE_cV_CLwqyf7xIRg",
+                    "URL de la Imagen del Artista": "https://www.biografiasyvidas.com/biografia/c/fotos/cohen.jpg",
+                    "URL de la Imagen del Álbum": "https://upload.wikimedia.org/wikipedia/en/4/4c/SongsOfLeonardCohen.jpeg"
+                }
+            ]
+        }
+
+    ]
+}
